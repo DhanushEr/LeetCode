@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    long cur=Long.MIN_VALUE;
+    long prev=Long.MIN_VALUE;
     boolean var=true;
     public boolean isValidBST(TreeNode root) {
         help(root);
@@ -27,10 +27,10 @@ class Solution {
         }
 
         help(root.left);
-        if(cur>=root.val){
+        if(prev>=root.val){
             var=false;
         }
-        cur=root.val;
+        prev=root.val;
         help(root.right);
     }
 }

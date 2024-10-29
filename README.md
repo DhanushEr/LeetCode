@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

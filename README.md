@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhanushEr/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/DhanushEr/LeetCode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/DhanushEr/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DhanushEr/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,4 +94,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DhanushEr/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

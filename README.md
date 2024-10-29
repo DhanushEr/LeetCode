@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/DhanushEr/LeetCode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/DhanushEr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DhanushEr/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DhanushEr/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/DhanushEr/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhanushEr/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhanushEr/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DhanushEr/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -102,5 +103,10 @@
 ## String
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DhanushEr/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/DhanushEr/LeetCode/tree/master/3312-number-of-changing-keys) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/DhanushEr/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->

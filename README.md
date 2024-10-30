@@ -68,6 +68,7 @@
 | [0219-contains-duplicate-ii](https://github.com/DhanushEr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/DhanushEr/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
 |  |
 | ------- |

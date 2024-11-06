@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/DhanushEr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhanushEr/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/DhanushEr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,10 +84,12 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhanushEr/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/DhanushEr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DhanushEr/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/DhanushEr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |

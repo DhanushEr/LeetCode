@@ -7,6 +7,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhanushEr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/DhanushEr/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0098-validate-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhanushEr/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/DhanushEr/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/DhanushEr/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
